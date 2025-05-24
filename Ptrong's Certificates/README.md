@@ -4,14 +4,18 @@ This repository contains certificates from several Data Science courses I have c
 
 ## Completed Courses
 
-1. **What is Data Science?**Understanding the basics and scope of Data Science.   
-[View Certificate](https://coursera.org/share/4dfeadfdfbd20cac608a3a7b03a34407)   
-3. **Tools for Data Science**Introduction to essential tools used in Data Science.   
-4. [View Certificate](https://coursera.org/share/94994340da3b419a12d6cc106edcab61)   
-5. **Data Science Methodology**Learning the step-by-step approach to solving data science problems.   
-6. [View Certificate](https://coursera.org/share/d57d0a871b7123714aa58816ee952a28)   
-7. **Python for Data Science, AI & Development**Mastering Python programming tailored for Data Science and AI applications.   
-[View Certificate](https://coursera.org/share/571cff18f1ac9f255463ecbffe3bf796)   
+1. **What is Data Science?**  
+Understanding the basics and scope of Data Science.   
+[View Certificate](https://coursera.org/share/4dfeadfdfbd20cac608a3a7b03a34407)    
+2. **Tools for Data Science**  
+Introduction to essential tools used in Data Science.   
+[View Certificate](https://coursera.org/share/94994340da3b419a12d6cc106edcab61)   
+3. **Data Science Methodology**  
+Learning the step-by-step approach to solving data science problems.   
+[View Certificate](https://coursera.org/share/d57d0a871b7123714aa58816ee952a28)   
+4. **Python for Data Science, AI & Development**  
+Mastering Python programming tailored for Data Science and AI applications.   
+[View Certificate](https://coursera.org/share/571cff18f1ac9f255463ecbffe3bf796)    
 
 ---
 
