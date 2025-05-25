@@ -15,7 +15,10 @@ Learning the step-by-step approach to solving data science problems.
 [View Certificate](https://coursera.org/share/d57d0a871b7123714aa58816ee952a28)   
 4. **Python for Data Science, AI & Development**  
 Mastering Python programming tailored for Data Science and AI applications.   
-[View Certificate](https://coursera.org/share/571cff18f1ac9f255463ecbffe3bf796)    
+[View Certificate](https://coursera.org/share/571cff18f1ac9f255463ecbffe3bf796)
+5. **Python for Data Science, AI & Development**  
+An advanced continuation focusing on deeper Python skills and applications in Data Science and AI development.  
+[View Certificate](https://coursera.org/share/8223fa45f31456ac599f84809fb72aec)  
 
 ---
 
