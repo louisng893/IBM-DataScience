@@ -19,6 +19,9 @@ Mastering Python programming tailored for Data Science and AI applications.
 5. **Python for Data Science, AI & Development**  
 An advanced continuation focusing on deeper Python skills and applications in Data Science and AI development.  
 [View Certificate](https://coursera.org/share/8223fa45f31456ac599f84809fb72aec)  
+6. **Databases and SQL for Data Science with Python**  
+Learn how to manage and analyze data using SQL and Python, essential skills for data science projects.  
+[View Certificate](https://coursera.org/share/119be16c314a02eee85b1e42fc15fa46)
 
 ---
 
