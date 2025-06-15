@@ -21,6 +21,8 @@ An advanced continuation focusing on deeper Python skills and applications in Da
 [View Certificate](https://coursera.org/share/8223fa45f31456ac599f84809fb72aec)  
 6. **Databases and SQL for Data Science with Python**  
 Learn how to manage and analyze data using SQL and Python, essential skills for data science projects.  
+7. **Data Analysis with Python**
+Learn how to import dataset, wranging, exploratory data analysis (EDA), develop several models (Simple/Multiple Linear Regression, Polynomial Regression, Ridge Regression), evaluate and refine models (Overfitting, Underfitting, Selection, Grid Search) with real-world datasets using powerful Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn—turning raw data into actionable insights for smarter decision-making.
 [View Certificate](https://coursera.org/share/119be16c314a02eee85b1e42fc15fa46)
 
 ---
